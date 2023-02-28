@@ -17,7 +17,7 @@
         android:layout_width="0dp"
         android:layout_height="match_parent"
         app:layout_constraintEnd_toStartOf="@+id/tv_name"
-        app:layout_constraintHorizontal_weight="0.35"
+        app:layout_constraintHorizontal_weight="0.30"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/logo_thunder_light" />
@@ -31,7 +31,7 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/tv_host_name"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_weight="0.65"
+        app:layout_constraintHorizontal_weight="0.70"
         app:layout_constraintStart_toEndOf="@+id/img_sadad"
         app:layout_constraintTop_toTopOf="parent" />
 

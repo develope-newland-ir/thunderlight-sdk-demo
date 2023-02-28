@@ -55,6 +55,6 @@ dependencies {
     implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.5.1'
     implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.5.1'
 
-    //Thunder SDK Lib
-    implementation 'com.github.developer-newland-ir:thunder-sdk:1.0-alpha'
+    //Thunder Light SDK Lib
+    implementation 'com.github.develope-newland-ir:thunderlight-sdk:1.1-alpha-rev3'
 }
